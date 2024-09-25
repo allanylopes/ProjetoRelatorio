@@ -1,0 +1,12 @@
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\bin\Debug\ProjetoRelatorio.exe.config
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\bin\Debug\ProjetoRelatorio.exe
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\bin\Debug\ProjetoRelatorio.pdb
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\obj\Debug\ProjetoRelatorio.csprojResolveAssemblyReference.cache
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\obj\Debug\ProjetoRelatorio.Form1.resources
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\obj\Debug\ProjetoRelatorio.Properties.Resources.resources
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\obj\Debug\ProjetoRelatorio.csproj.GenerateResource.Cache
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\obj\Debug\ProjetoRelatorio.exe
+C:\Users\suporte.ACAD\Desktop\DS 2\ProjetoRelatorio\ProjetoRelatorio\obj\Debug\ProjetoRelatorio.pdb
+C:\Users\Moxxie\Desktop\DS Exercícios\ProjetoRelatorio\ProjetoRelatorio\bin\Debug\ProjetoRelatorio.exe.config
+C:\Users\Moxxie\Desktop\DS Exercícios\ProjetoRelatorio\ProjetoRelatorio\obj\Debug\ProjetoRelatorio.exe
+C:\Users\Moxxie\Desktop\DS Exercícios\ProjetoRelatorio\ProjetoRelatorio\obj\Debug\ProjetoRelatorio.pdb
